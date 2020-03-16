@@ -40,3 +40,9 @@ vignettes/*.pdf
 
 # IPython
 /.ipynb_checkpoints/*.ipynb
+
+*.aux
+*.bbl
+*.log
+*.synctex.gz
+*.blg
